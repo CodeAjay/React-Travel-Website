@@ -6,8 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>My Name is Ajay</h1>
         <p>
-          Testin my app here is a demo and I am done with this. 
+          Just Playing with the react. 
         </p>
       </header>
     </div>
